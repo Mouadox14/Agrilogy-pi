@@ -510,8 +510,8 @@ footer{
     .section2 .para {
         flex-direction: column;
         left: 0;
-        width: 100%;
-        margin-left: 0px;
+        width: 90%;
+        margin-left: 20px;
     }
     .card {
         max-width: 50px;
@@ -544,6 +544,7 @@ footer{
 
     .card {
         max-width: 50vh;
+        margin-top: 50px;
     }
     .section8{
         width:  100%;
